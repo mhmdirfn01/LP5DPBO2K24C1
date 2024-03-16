@@ -54,4 +54,9 @@ Metode Utama:
 - `populateList()`: Mengisi daftar mahasiswa dengan data awal.
 
 
+SS 
+![Screenshot 2024-03-16 212854](https://github.com/mhmdirfn01/LP5DPBO2K24C1/assets/145920545/8eb45781-dac5-4f5b-8994-c806dde10841)
+![Screenshot 2024-03-16 212859](https://github.com/mhmdirfn01/LP5DPBO2K24C1/assets/145920545/38d32df4-ce25-4f35-bf1f-90410e449854)
+![Screenshot 2024-03-16 212920](https://github.com/mhmdirfn01/LP5DPBO2K24C1/assets/145920545/e05bf361-82fe-4054-b0ad-d6f5a9b388f0)
+![Screenshot 2024-03-16 212925](https://github.com/mhmdirfn01/LP5DPBO2K24C1/assets/145920545/96133e1b-11a7-4250-9fca-f15843c8abae)
 
